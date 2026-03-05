@@ -1,11 +1,15 @@
-# Overview
+# Лабораторная работа №2
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+## Overview
+Проект для лабораторной работы №2 по дисциплине "Технологии программирования для мобильных приложений".
 
-# Usage
+**Студент:** Тюшко Вадим  
+**Группа:** 12
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+## Usage
+Программа принимает аргументы командной строки для обработки данных согласно индивидуальному заданию (вариант 22).
 
-# Building
-
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+## Building
+```bash
+gcc -o labrabota2-1 src/main.c
+./labrabota2-1
