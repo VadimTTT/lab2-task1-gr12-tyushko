@@ -1,11 +1,21 @@
-# Overview
+# Labrabota 3
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+This is a simple C project that prints "Hello World" and "Goodbye World".
 
-# Usage
+## Project Structure
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+- `src/hello.c`: The main source file.
 
-# Building
+## Building and Running
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+To compile and run the project:
+
+```bash
+gcc src/hello.c -o hello
+./hello
+```
+
+## Details
+
+**Name:** [Your Last Name, First Name]
+**Group:** [Your Group Number]
