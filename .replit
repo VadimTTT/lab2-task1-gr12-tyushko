@@ -1,4 +1,4 @@
 language = "c"
-run = "gcc -o labrabota2-1 /home/runner/tpmp-task1-gr12-VadimTTT/src/main.c && ./labrabota2-1"
+run = "gcc -o labrabota2-1 src/main.c && ./labrabota2-1"
 [agent]
 expertMode = true
