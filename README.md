@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Labrabota 3
 
 This is a simple C project that prints "Hello World" and "Goodbye World".
@@ -19,3 +20,20 @@ gcc src/hello.c -o hello
 
 **Name:** [Your Last Name, First Name]
 **Group:** [Your Group Number]
+=======
+# Лабораторная работа №2
+
+## Overview
+Проект для лабораторной работы №2 по дисциплине "Технологии программирования для мобильных приложений".
+
+**Студент:** Тюшко Вадим  
+**Группа:** 12
+
+## Usage
+Программа принимает аргументы командной строки для обработки данных согласно индивидуальному заданию (вариант 22).
+
+## Building
+```bash
+gcc -o labrabota2-1 src/main.c
+./labrabota2-1
+>>>>>>> master
