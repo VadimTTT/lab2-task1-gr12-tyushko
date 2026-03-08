@@ -51,3 +51,22 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Бинарные файлы
+labrabota2-1
+*.exe
+*.o
+*.out
+
+# Временные файлы
+*.tmp
+*.log
+*.cache
+*.swp
+*.swo
+
+# Директории
+bin/
+obj/
+Debug/
+Release/

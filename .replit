@@ -1,4 +1,4 @@
 language = "c"
-run = "gcc -o labrabota2-1 /home/runner/workspace/src/main.c && ./labrabota2-1"
+run = "gcc -o labrabota2-1 src/main.c src/task1_prime.c src/task2_train.c src/task3_software.c && ./labrabota2-1"
 [agent]
 expertMode = true
