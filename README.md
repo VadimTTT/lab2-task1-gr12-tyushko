@@ -18,8 +18,8 @@ gcc src/hello.c -o hello
 
 ## Details
 
-**Name:** [Your Last Name, First Name]
-**Group:** [Your Group Number]
+**Name:** Vadim
+**Group:** 12
 =======
 # Лабораторная работа №2
 
